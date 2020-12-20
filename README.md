@@ -1,4 +1,4 @@
 # SweeTravel
 
-github.com/mpscoder
+Simple static page using html and css
 
